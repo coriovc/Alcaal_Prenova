@@ -880,7 +880,7 @@ to {
     font-weight: 400;
     position: absolute;
     margin-top: -6rem;
-    width: 100%;
+    width: auto;
     margin-left: 9rem;
     z-index: -2;
     color: #fff;
@@ -888,8 +888,8 @@ to {
 
 @media only screen and (max-width:767px) {
     .letra-outline {
-    font-size: 60px;
-    margin-top: -4rem;
+    font-size: 50px;
+    margin-top: -3.2rem;
     margin-left: 1rem;
     -webkit-text-stroke: 0.05rem #f44f5b;
    }

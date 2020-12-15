@@ -860,7 +860,7 @@ a.btn-trans-card:focus, a.btn-trans-card:hover { color: #F27281; font-size: 20px
 .legal-area .legal-content .content .our-link li i { color: #F44F5B; font-size: 1rem; font-weight: 800; margin-right: 0.5rem; }
 
 /* :: Footer */
-.footer-area { position: relative; z-index: 1; background-color: #F44F5B; padding: 2rem 0; }
+.footer-area { position: relative; z-index: 1; background-color: #00410A; padding: 2rem 0; }
 @media only screen and (max-width: 767px) { .footer-area { padding: 2rem 1rem; } }
 
 .single-footer-widget { position: relative; z-index: 1; margin: 0; }
