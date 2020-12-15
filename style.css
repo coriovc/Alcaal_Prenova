@@ -1038,7 +1038,7 @@ textarea.form-control { height: 110px; padding: 15px; }
 .ind-items-food .card .card-header img { max-width: 100%; -webkit-transition: box-shadow 0.5s ease-in-out, -webkit-transform 0.5s ease-in-out; transition: box-shadow 0.5s ease-in-out, -webkit-transform 0.5s ease-in-out; transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out; transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out, -webkit-transform 0.5s ease-in-out; }
 .ind-items-food .card .card-body { padding: 1rem 1rem 0 1rem; }
 .ind-items-food .card .card-body img { max-width: 60px; }
-.ind-items-food .card .card-body h3 { margin: 10px 0; padding: 0; color: #F44F5B; text-align: left; font-size: 32px; font-weight: 600; bottom: 0; line-height: 1; }
+.ind-items-food .card .card-body h3 { margin: 10px 0; padding: 0; color: #F44F5B; text-align: left; font-size: 30px; font-weight: 600; bottom: 0; line-height: 1; }
 .ind-items-food .card .card-body p { line-height: 1.5; font-size: 18px; text-align: left; margin: 1rem 0 0 0; }
 .ind-items-food .card .card-footer { background-color: transparent; border-top: none; }
 
